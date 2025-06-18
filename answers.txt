@@ -6,3 +6,6 @@ Q1: Why might we consider using Git?
 
 Answer: Git lets us track code changes, collaborate with others! 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a separate commit to combine histories. Rebasing rewrites commit history for a cleaner timeline.
