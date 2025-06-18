@@ -1,3 +1,7 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied in healthcare to predict disease outbreaks using patient data.
+
 Q1: Why might we consider using Git?
 
 Answer: Git lets us track code changes, collaborate with others! 
